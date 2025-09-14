@@ -10,7 +10,7 @@
 </div>
 
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a **Software Engineer** who lives in **Dubai, UAE**.  
 
