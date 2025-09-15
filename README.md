@@ -40,6 +40,12 @@ I'm a **Software Engineer** who lives in **Dubai, UAE**.
 
 ---
 
+## 📊 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekycoder8&layout=compact&theme=dark)
+
+---
+
 ## 🔥 My Stats  
 
 ![Streak Stats](https://streak-stats.demolab.com?user=geekycoder8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
